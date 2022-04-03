@@ -36,10 +36,12 @@ const Portfolio = () => {
           <div style={{ marginTop: "20px", backgroundColor: "#212F3D"}} className="col" key={project.name}>
             <div className="card">
               <a href={project.link} target="_blank" rel="noreferrer">
+                <div className="brightness">
                 <img
                   src={require(`../../assets/${project.screenshot}`)}
-                  className="card-img-top"
+                  className="card-img-top projectImage"
                 />
+                </div>
               </a>
               <div className="card-body text-center bg-dark text-white">
                 <h5 className="card-title">{project.name}</h5>
