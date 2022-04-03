@@ -5,7 +5,7 @@ const Portfolio = () => {
   const projects = [
     {
       name: "DnD Character Generator:",
-      screenshot: "dndGen.jpg",
+      screenshot: "dndGenerator.gif",
       link: "https://zbreezie.github.io/dnd-character-creator/",
       repo: "https://github.com/zbreezie/dnd-character-creator",
       description: "If you've ever needed a hint of inspiration for a character, or just an NPC generated for a Dungeons and Dragons run, this is the tool for you!"
@@ -17,23 +17,24 @@ const Portfolio = () => {
       repo: "https://github.com/SamuraiHuey/band-gogh",
       description: "A site where local bands and musicians can sign up and post their gig for viewers to see! Fully built api routes, session authentication, and dynamic outputs!"
     },
+
     {
       name: "Wanderosa:",
-      screenshot: "wanderosa.png",
+      screenshot: "wanderosa.gif",
       link: "https://wanderosa.herokuapp.com/",
       repo: "https://github.com/SamuraiHuey/Wanderosa",
-      description: "A personal itinerary tool. Whenever you're organizing your next trip, Wanderosa is a place that is available to keep your schedule 'all together'!"
+      description: "A personal itinerary tool built with React and GraphQL. Whenever you're organizing your next trip, Wanderosa is a place to keep your schedule 'all together'!"
     },
     {
       name: "Password Generator:",
-      screenshot: "PasswordGen.png",
+      screenshot: "passwordGen.gif",
       link: "https://zbreezie.github.io/PasswordGenerator/",
       repo: "https://github.com/ZBreezie/PasswordGenerator",
       description: "If you're like me, you can never have too many passwords! This is a simple app that will provide you random characters within your desired parameters!"
     },
     {
       name: "Scheduler:",
-      screenshot: "WorkDayScheduler.png",
+      screenshot: "schedulerGif.gif",
       link: "https://zbreezie.github.io/WorkDayScheduler/",
       repo: "https://github.com/ZBreezie/WorkDayScheduler",
       description: "Let's be real for a moment, we're programmers here. We need to know the exact time blocks to pound our pots of coffee..."
