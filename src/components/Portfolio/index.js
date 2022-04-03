@@ -6,8 +6,8 @@ const Portfolio = () => {
     {
       name: "DnD Character Generator:",
       screenshot: "dndGen.jpg",
-      link: "https://wolfskillobyte.github.io/dnd-character-creator/",
-      repo: "https://github.com/wolfskillobyte/dnd-character-creator",
+      link: "https://zbreezie.github.io/dnd-character-creator/",
+      repo: "https://github.com/zbreezie/dnd-character-creator",
       description: "If you've ever needed a hint of inspiration for a character, or just an NPC generated for a Dungeons and Dragons run, this is the tool for you!"
     },
     {
