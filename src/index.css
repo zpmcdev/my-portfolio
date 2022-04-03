@@ -23,17 +23,17 @@ body {
 
 .projectImage {
   opacity: 1;
-  transition: 1s;
+  transition: .5s;
 }
 
 .brightness {
-  background-color: white;
+  background-color: black;
   display: inline-block;
 }
 
 .brightness img:hover {
-  opacity: .70;
-  transition: 1.25s;
+  opacity: .65;
+  transition: 1.25;
 }
 
 code {

@@ -22,7 +22,21 @@ const Portfolio = () => {
       screenshot: "wanderosa.png",
       link: "https://wanderosa.herokuapp.com/",
       repo: "https://github.com/SamuraiHuey/Wanderosa",
-      description: "A personal itinerary tool. Whenever you're organizing your next trip, Wanderosa is a place that is available to keep your schedule 'all together'"
+      description: "A personal itinerary tool. Whenever you're organizing your next trip, Wanderosa is a place that is available to keep your schedule 'all together'!"
+    },
+    {
+      name: "Password Generator:",
+      screenshot: "PasswordGen.png",
+      link: "https://zbreezie.github.io/PasswordGenerator/",
+      repo: "https://github.com/ZBreezie/PasswordGenerator",
+      description: "If you're like me, you can never have too many passwords! This is a simple app that will provide you random characters within your desired parameters!"
+    },
+    {
+      name: "Scheduler:",
+      screenshot: "WorkDayScheduler.png",
+      link: "https://zbreezie.github.io/WorkDayScheduler/",
+      repo: "https://github.com/ZBreezie/WorkDayScheduler",
+      description: "Let's be real for a moment, we're programmers here. We need to know the exact time blocks to pound our pots of coffee..."
     },
   ];
 
