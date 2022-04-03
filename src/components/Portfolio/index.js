@@ -60,7 +60,9 @@ const Portfolio = () => {
               <div className="card-body text-center bg-dark text-white">
                 <h5 className="card-title">{project.name}</h5>
                 <p className="card-text">{project.description}</p>
-                <a href={project.repo} target="_blank" rel="noreferrer" style={{ backgroundColor: "green"}} className="btn btn-primary">GitHub Repo!</a>
+                <div className="brightness">
+                <a href={project.repo} target="_blank" rel="noreferrer" className="btn btn-success">GitHub Repo!</a>
+                </div>
               </div>
             </div>
           </div>
