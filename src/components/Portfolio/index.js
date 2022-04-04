@@ -54,7 +54,7 @@ const Portfolio = () => {
                 <div className="brightness">
                 <img
                   src={require(`../../assets/${project.screenshot}`)}
-                  className="card-img-top projectImage"
+                  className="card-img-top zoom projectImage"
                 />
                 </div>
               </a>
