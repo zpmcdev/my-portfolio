@@ -3,10 +3,15 @@ import React from 'react';
 const About = () => {
   return (
     <div className="text-white">
-      <h2>
+      <h1 className=" display-1">
         About Me:
-      </h2>
-      <p>TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING </p>
+      </h1>
+        <div className= "">
+          <img className="card-img-top"
+            src={require(`../../assets/d.jpg`)}
+          />
+          <p className="">im just a dude</p>
+        </div>
     </div>
   );
 }

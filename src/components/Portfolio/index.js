@@ -12,10 +12,10 @@ const Portfolio = () => {
     },
     {
       name: "Band-Gogh:",
-      screenshot: "band-gogh.png",
+      screenshot: "band-gif.gif",
       link: "https://band-gogh.herokuapp.com/",
       repo: "https://github.com/SamuraiHuey/band-gogh",
-      description: "A site where local bands and musicians can sign up and post their gig for viewers to see! Fully built api routes, session authentication, and dynamic outputs!"
+      description: "A site where local bands and musicians can sign up and post their gig for viewers to see! Fully built api routes, session authentication, and dynamic outputs! (My first foray into Full-Stack development!)"
     },
 
     {
@@ -46,23 +46,23 @@ const Portfolio = () => {
       <h2 className="text-center text-white">
         My Main Projects:
       </h2>
-      <div style={{ backgroundColor: "#212F3D"}} className="row row-cols-1 row-cols-md-3">
+      <div style={{ backgroundColor: "#212F3D" }} className="row row-cols-1 row-cols-md-3">
         {projects.map((project) => (
-          <div style={{ marginTop: "20px", backgroundColor: "#212F3D"}} className="col" key={project.name}>
+          <div style={{ marginTop: "20px", backgroundColor: "#212F3D" }} className="col" key={project.name}>
             <div className="card">
               <a href={project.link} target="_blank" rel="noreferrer">
                 <div className="brightness">
-                <img
-                  src={require(`../../assets/${project.screenshot}`)}
-                  className="card-img-top zoom projectImage"
-                />
+                  <img
+                    src={require(`../../assets/${project.screenshot}`)}
+                    className="card-img-top zoom projectImage"
+                  />
                 </div>
               </a>
               <div className="card-body text-center bg-dark text-white">
                 <h5 className="card-title">{project.name}</h5>
                 <p className="card-text">{project.description}</p>
                 <div className="brightness">
-                <a href={project.repo} target="_blank" rel="noreferrer" className="btn btn-success">GitHub Repo!</a>
+                  <a href={project.repo} target="_blank" rel="noreferrer" className="btn btn-success">GitHub Repo!</a>
                 </div>
               </div>
             </div>
