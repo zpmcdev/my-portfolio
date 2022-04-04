@@ -37,7 +37,7 @@ body {
 }
 
 .zoom{
-  transition: 1.25s;
+  transition: .75s;
 }
 
 .zoom:hover {
