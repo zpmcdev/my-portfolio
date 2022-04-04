@@ -15,7 +15,7 @@ const Portfolio = () => {
       screenshot: "band-gif.gif",
       link: "https://band-gogh.herokuapp.com/",
       repo: "https://github.com/SamuraiHuey/band-gogh",
-      description: "A site where local bands and musicians can sign up and post their gig for viewers to see! Fully built api routes, session authentication, and dynamic outputs! (My first foray into Full-Stack development!)"
+      description: "A site where local bands and musicians can sign up and post their gig for viewers to see! Fully built api routes, session authentication, and dynamic output!"
     },
 
     {
@@ -61,7 +61,7 @@ const Portfolio = () => {
               <div className="card-body text-center bg-dark text-white">
                 <h5 className="card-title">{project.name}</h5>
                 <p className="card-text">{project.description}</p>
-                <div className="brightness">
+                <div style={{display:"inline-block"}}className="brightness">
                   <a href={project.repo} target="_blank" rel="noreferrer" className="btn btn-success">GitHub Repo!</a>
                 </div>
               </div>
