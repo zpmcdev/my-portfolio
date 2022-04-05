@@ -23,7 +23,7 @@ const Portfolio = () => {
       screenshot: "wanderosa.gif",
       link: "https://wanderosa.herokuapp.com/",
       repo: "https://github.com/SamuraiHuey/Wanderosa",
-      description: "A personal itinerary tool built with React and GraphQL. Whenever you're organizing your next trip, Wanderosa is a place to keep your schedule 'all together'!"
+      description: "A personal itinerary tool built with React and GraphQL. If you're organizing your next trip, Wanderosa is a place to keep your schedule 'all together'!"
     },
     {
       name: "Password Generator:",
