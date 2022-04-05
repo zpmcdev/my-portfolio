@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.0404f121.css",
+    "main.js": "/my-portfolio/static/js/main.90b7108e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/band-gif.gif": "/my-portfolio/static/media/band-gif.e9228143ecfa8edb602a.gif",
+    "static/media/wanderosa.gif": "/my-portfolio/static/media/wanderosa.7f67d9fcf0750ca197c0.gif",
+    "static/media/dndGenerator.gif": "/my-portfolio/static/media/dndGenerator.f63cd0aa37b4e9363e9a.gif",
+    "static/media/band-gogh.png": "/my-portfolio/static/media/band-gogh.f2bd4a4e30a40ce89f11.png",
+    "static/media/w.png": "/my-portfolio/static/media/w.fdc4b8991d5a4d48704e.png",
+    "static/media/schedulerGif.gif": "/my-portfolio/static/media/schedulerGif.127c23a176f07e6e408a.gif",
+    "static/media/passwordGen.gif": "/my-portfolio/static/media/passwordGen.e2d01965eae7926114a0.gif",
+    "static/media/WorkDayScheduler.png": "/my-portfolio/static/media/WorkDayScheduler.553a52e9baff825defaf.png",
+    "static/media/d.jpg": "/my-portfolio/static/media/d.887d36ccf0816e564c40.jpg",
+    "static/media/pg.png": "/my-portfolio/static/media/pg.43fc01a51a188c2f1500.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.0404f121.css.map": "/my-portfolio/static/css/main.0404f121.css.map",
+    "main.90b7108e.js.map": "/my-portfolio/static/js/main.90b7108e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0404f121.css",
+    "static/js/main.90b7108e.js"
+  ]
+}
