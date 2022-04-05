@@ -1,6 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
+import { faEnvelopeCircleCheck } from '@fortawesome/free-solid-svg-icons'
 
 const About = () => {
 
@@ -15,13 +16,17 @@ const About = () => {
         <div className='main-color row justify-content-around'>
             <p className="aboutp card bg-dark col-7 text-center">My name is Zachary, and I'm a Full-Stack developer! I grew up in Charlotte, NC, and I am currently based in Richmond, VA!
             </p>
-            <div className="aboutp col-2 text-center"> 
-              <a href={github} target="_blank" rel="noreferrer" className=" card main-color col-12">
+            <div className=" col-2 text-center"> 
+              <a href={github} target="_blank" rel="noreferrer" className="card bg-dark main-color col-12 mb-4">
                 <FontAwesomeIcon icon={faGithub} size="2x"/>
                 <p className="bg-dark text-white col-md-offset-2">Check out my GitHub!</p>
               </a>
+              <div className=" card bg-dark main-color col-12 mb-4">
+              <FontAwesomeIcon icon={faEnvelopeCircleCheck} size="2x"/>
+              <p className="bg-dark text-white col-md-offset-2">Reach out to my email! @ zpmc55@yahoo.com </p>
+              </div>
             </div>
-            <p className="aboutp card bg-dark col-md-offset-2 text-center">This is the spot where I showcase some of the various things I've built throughout my coding career.</p>
+            <p className="aboutp card bg-dark col-md-offset-2 text-center">This is the spot where I'll showcase a sample of the various things I've built throughout my coding career.</p>
         </div>
       </div>
     </div>

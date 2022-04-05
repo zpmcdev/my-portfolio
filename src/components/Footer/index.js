@@ -11,7 +11,7 @@ const Footer = () => {
     
         <section className="bg-dark mb-4">
           <p style={{marginTop: "4px"}}>
-            Thanks for visiting! 💜
+            Thanks for visiting!
           </p>
         </section>
     

@@ -6,7 +6,7 @@ import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
 
-  const [navSection] = useState(["About", "Portfolio", "Contact"]);
+  const [navSection] = useState(["About", "Portfolio"]);
   const [selectedNavSection, setSelectedNavSection] = useState(navSection[0]);
 
   return (
@@ -20,8 +20,9 @@ function App() {
         <Project
           selectedNavSection={selectedNavSection}
         ></Project>
+              <Footer></Footer>
       </main>
-      <Footer></Footer>
+
     </div>
   );
 }
