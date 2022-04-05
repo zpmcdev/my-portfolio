@@ -10,7 +10,7 @@ const Footer = () => {
     
     
         <section className="bg-dark mb-4">
-          <p style={{marginTop: "10%"}}>
+          <p style={{marginTop: "3%"}}>
             Thanks for visiting!
           </p>
         </section>
