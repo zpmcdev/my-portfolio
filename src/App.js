@@ -6,7 +6,7 @@ import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
 
-  const [navSection] = useState(["About", "Portfolio"]);
+  const [navSection] = useState(["Portfolio", "About"]);
   const [selectedNavSection, setSelectedNavSection] = useState(navSection[0]);
 
   return (

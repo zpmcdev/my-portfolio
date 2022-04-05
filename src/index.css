@@ -16,6 +16,13 @@ body {
   padding: 6%;
 }
 
+.aboutparagraph {
+  font-size: 120%;
+  padding: 4%;
+  font-style: italic;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 .aboutp {
   font-size: 120%;
   padding: 4%;
