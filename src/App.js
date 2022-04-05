@@ -10,7 +10,7 @@ function App() {
   const [selectedNavSection, setSelectedNavSection] = useState(navSection[0]);
 
   return (
-    <div style={{backgroundColor: "#212F3D", height: "100vh"}} className="container-fluid">
+    <div style={{backgroundColor: "#212F3D"}} className="container-fluid">
       <Header
         navSection={navSection}
         selectedNavSection={selectedNavSection}
@@ -20,7 +20,7 @@ function App() {
         <Project
           selectedNavSection={selectedNavSection}
         ></Project>
-              <Footer></Footer>
+        <Footer></Footer>
       </main>
 
     </div>

@@ -1,6 +1,5 @@
 html, body {
-  height: 100%;
-  width: 100%;
+  background-color: #212F3D;
 }
 
 body {
@@ -31,7 +30,7 @@ body {
   position: relative;
   width: 100%;
   bottom: 0%;
-  height: 4rem;
+  height: 20rem;
   margin-top: 2px;
   background-color: #212F3D;
 }
