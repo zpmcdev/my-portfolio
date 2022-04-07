@@ -10,7 +10,7 @@ const About = () => {
   return (
     <div className="main-color container-fluid text-white">
       <div className=" row">
-        <h1 className=" display-1 col">
+        <h1 className=" display-1 col mb-5">
           Hello there!:
         </h1>
         <div className='main-color row justify-content-around'>
@@ -26,7 +26,6 @@ const About = () => {
               <p className="bg-dark text-white col-md-offset-2">Reach out to my email!: zpmc55@yahoo.com </p>
               </div>
             </div>
-            <p className="aboutp card bg-dark col-md-offset-2 text-center">This is the no-nonsense spot where I showcase a sample of the various things I've built throughout my coding career.</p>
         </div>
       </div>
     </div>
