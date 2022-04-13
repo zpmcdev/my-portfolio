@@ -27,6 +27,10 @@ body {
   margin-right: 0%;
 }
 
+.nav-pills > li {
+  background-color: rgb(70, 70, 70);
+}
+
 .nav-pills > li > a.active {
   background-color: #62a17c !important;
 }
