@@ -23,7 +23,7 @@ const About = () => {
               </a>
               <div className=" card bg-dark main-color col-12 mb-4">
               <FontAwesomeIcon icon={faEnvelopeCircleCheck} size="2x"/>
-              <p className="bg-dark text-white col-md-offset-2">Reach out to my email!: zpmc55@yahoo.com </p>
+              <p className="bg-dark text-white col-md-offset-2">Reach out to my email!: zpmcdev@yahoo.com </p>
               </div>
             </div>
         </div>
