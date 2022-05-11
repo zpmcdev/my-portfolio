@@ -30,7 +30,7 @@ const Portfolio = () => {
       screenshot: "E-Commerce Back End.gif",
       link: "https://github.com/ZBreezie/E-Commerce-Back-End",
       repo: "https://github.com/ZBreezie/E-Commerce-Back-End",
-      description: "An entire backend database/server where you can (C)reate, (R)ead, (U)pdate, and (D)estroy products, their corresponding tags, and categories for your general E-Commerce business! (Node.js, SQL)"
+      description: "An entire backend database/server where you can (C)reate, (R)ead, (U)pdate, and (D)elete products, their corresponding tags, and categories for your general E-Commerce business! (Node.js, SQL)"
     },
     {
       name: "Password Generator:",
@@ -44,7 +44,7 @@ const Portfolio = () => {
       screenshot: "socialNetworkAPI.gif",
       link: "https://github.com/ZBreezie/SocialNetworkAPI",
       repo: "https://github.com/ZBreezie/SocialNetworkAPI",
-      description: "A back end API where social media users are able to be (C)reated, (R)ead, (U)pdated, and (D)estroyed along with message posting, friends lists, and reactions! (Node.js, MongoDB)"
+      description: "A back end API where social media users are able to be (C)reated, (R)ead, (U)pdated, and (D)eleted, along with message posting, friends lists, and reactions! (Node.js, MongoDB)"
     },
     {
       name: "Scheduler:",
