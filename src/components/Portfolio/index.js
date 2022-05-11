@@ -51,7 +51,7 @@ const Portfolio = () => {
       screenshot: "schedulerGif.gif",
       link: "https://zbreezie.github.io/WorkDayScheduler/",
       repo: "https://github.com/ZBreezie/WorkDayScheduler",
-      description: "Let's be real, we're programmers here, and we need to know the exact time blocks to pound our pots of coffee...(JavaScript, HTML, CSS)"
+      description: "Let's be real, we're programmers here, and we need to know the exact time blocks to pound our pots of coffee...(JavaScript, jQuery, HTML, CSS)"
     },
   ];
 
