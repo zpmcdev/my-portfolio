@@ -15,7 +15,7 @@ const Portfolio = () => {
       screenshot: "band-gif.gif",
       link: "https://band-gogh.herokuapp.com/",
       repo: "https://github.com/SamuraiHuey/band-gogh",
-      description: "A site where local bands and musicians can sign up and post their gig for viewers to see! Fully built api routes, session authentication, and dynamic output! (Node.js, JavaScript, SQL, HTML, CSS)"
+      description: "A site where local bands and musicians can sign up and post their gig for viewers to see! Fully built api routes, session authentication, and dynamic output! (Node.js, Handlebars, JavaScript, SQL, HTML, CSS)"
     },
 
     {
