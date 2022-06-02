@@ -30,7 +30,7 @@ const Portfolio = () => {
       screenshot: "E-Commerce Back End.gif",
       link: "https://github.com/ZBreezie/E-Commerce-Back-End",
       repo: "https://github.com/ZBreezie/E-Commerce-Back-End",
-      description: "An entire backend database/server where you can (C)reate, (R)ead, (U)pdate, and (D)elete products, their corresponding tags, and categories for your general E-Commerce business! (Node.js, SQL)"
+      description: "An entire backend database/server where you can (C)reate, (R)ead, (U)pdate, and (D)elete products, their corresponding tags, and categories for your general E-Commerce business! (Node.js, SQL, Sequelize)"
     },
     {
       name: "Password Generator:",
