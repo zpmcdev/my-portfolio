@@ -6,8 +6,8 @@ const Portfolio = () => {
     {
       name: "DnD Character Generator:",
       screenshot: "dndGenerator.gif",
-      link: "https://zbreezie.github.io/dnd-character-creator/",
-      repo: "https://github.com/zbreezie/dnd-character-creator",
+      link: "https://zpmcdev.github.io/dnd-character-creator/",
+      repo: "https://github.com/zpmcdev/dnd-character-creator",
       description: "If you've ever needed a hint of inspiration for a character, or just an NPC generated for a Dungeons and Dragons run, this is the tool for you! (JavaScript, jQuery, UI-Kit, HTML, CSS, 3rd Party API's)"
     },
     {
@@ -28,29 +28,29 @@ const Portfolio = () => {
     {
       name: "E-Commerce Back End:",
       screenshot: "E-Commerce Back End.gif",
-      link: "https://github.com/ZBreezie/E-Commerce-Back-End",
-      repo: "https://github.com/ZBreezie/E-Commerce-Back-End",
+      link: "https://github.com/zpmcdev/E-Commerce-Back-End",
+      repo: "https://github.com/zpmcdev/E-Commerce-Back-End",
       description: "An entire backend database/server where you can (C)reate, (R)ead, (U)pdate, and (D)elete products, their corresponding tags, and categories for your general E-Commerce business! (Node.js, MySQL, Sequelize)"
     },
     {
       name: "Password Generator:",
       screenshot: "passwordGen.gif",
-      link: "https://zbreezie.github.io/PasswordGenerator/",
-      repo: "https://github.com/ZBreezie/PasswordGenerator",
+      link: "https://zpmcdev.github.io/PasswordGenerator/",
+      repo: "https://github.com/zpmcdev/PasswordGenerator",
       description: "If you're like me, you can never have too many passwords! This is a simple app that will provide you random characters within your desired parameters! (JavaScript, HTML, CSS)"
     },
     {
       name: "Social Network API:",
       screenshot: "socialNetworkAPI.gif",
-      link: "https://github.com/ZBreezie/SocialNetworkAPI",
-      repo: "https://github.com/ZBreezie/SocialNetworkAPI",
+      link: "https://github.com/zpmcdev/SocialNetworkAPI",
+      repo: "https://github.com/zpmcdev/SocialNetworkAPI",
       description: "A back end API where social media users are able to be (C)reated, (R)ead, (U)pdated, and (D)eleted, along with message posting, friends lists, and reactions! (Node.js, MongoDB)"
     },
     {
       name: "Scheduler:",
       screenshot: "schedulerGif.gif",
-      link: "https://zbreezie.github.io/WorkDayScheduler/",
-      repo: "https://github.com/ZBreezie/WorkDayScheduler",
+      link: "https://zpmcdev.github.io/WorkDayScheduler/",
+      repo: "https://github.com/zpmcdev/WorkDayScheduler",
       description: "Let's be real, we're programmers here, and we need to know the exact time blocks to pound our pots of coffee...(JavaScript, jQuery, HTML, CSS)"
     },
   ];

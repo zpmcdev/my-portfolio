@@ -5,7 +5,7 @@ import { faEnvelopeCircleCheck } from '@fortawesome/free-solid-svg-icons'
 
 const About = () => {
 
-  const github = "https://github.com/zbreezie";
+  const github = "https://github.com/zpmcdev";
 
   return (
     <div className="main-color container-fluid text-white">
